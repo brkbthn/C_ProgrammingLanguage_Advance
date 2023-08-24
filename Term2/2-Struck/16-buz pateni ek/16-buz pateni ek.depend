@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652103314 source:c:\users\berkb\desktop\2.sýnýf 2.dönem dersler\programlama dilleri 2\c programlama\cprogramlama boz tranin-2.donem\2-struck\16-buz pateni ek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

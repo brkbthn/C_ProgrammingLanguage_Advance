@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635514273 source:c:\users\berkb\desktop\c programlama derslerÝ\17-do while örnek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

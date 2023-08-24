@@ -13,14 +13,14 @@ int main()
 
     float sayilar[]= {1.5, 2.4, 4.3, 7.8, 8.9};
 
-    float sayilar[7]; // istenilirse sayilat[7]={} þeklinde 7 elemanlý içine 0 yerleþtirilmiþ array tanýmlanýp daha sonra içerisi doldurulabilir.
+    float sayilar[7]; // istenilirse sayilat[7]={} ï¿½eklinde 7 elemanlï¿½ iï¿½ine 0 yerleï¿½tirilmiï¿½ array tanï¿½mlanï¿½p daha sonra iï¿½erisi doldurulabilir.
     for(int i=0;i<7;i++){
         printf("%d. elemani giriniz", i+1);
         scanf("%f", &sayilar[i]);
         printf("\t\t");
 
     }
-    for(int i=0; i<7;i++){// for döngüsü içinde tanýmlanan int deðer geçicidir o nedenle her seferinde yeniden tanýmlanmasý gerekir. istenilirse ana blokta da tanýmlanabilir.
+    for(int i=0; i<7;i++){// for dï¿½ngï¿½sï¿½ iï¿½inde tanï¿½mlanan int deï¿½er geï¿½icidir o nedenle her seferinde yeniden tanï¿½mlanmasï¿½ gerekir. istenilirse ana blokta da tanï¿½mlanabilir.
         printf("%f", sayilar[i]);
     }
 
